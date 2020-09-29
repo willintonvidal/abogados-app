@@ -8,7 +8,7 @@
 
 <script>
 	import Post from '../components/Post.svelte'
-	export let posts;
+	//export let posts;
 </script>
 <style>
 	.Home {
@@ -24,9 +24,9 @@
 </svelte:head>
 
 <div class="Home">
-	<div class="Posts">
+<!-- `	<div class="Posts">
 		{#each  posts as post }
 			<Post {post}/>
 		{/each}
-	</div>
+	</div>` -->
 </div>
