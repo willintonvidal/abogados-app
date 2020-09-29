@@ -1,13 +1,13 @@
-<script context="module">
+<!-- <script context="module">
 	export function preload() {
 		return this.fetch(`blog.json`).then(r => r.json()).then(posts => {
 			return { posts };
 		});
 	}
-</script>
+</script> -->
 
 <script>
-	import Post from '../components/Post.svelte'
+	// import Post from '../components/Post.svelte'
 	//export let posts;
 </script>
 <style>
@@ -20,7 +20,7 @@
 </style>
 
 <svelte:head>
-	<title>Wilinton Vidal</title>
+	<title>Home</title>
 </svelte:head>
 
 <div class="Home">
@@ -29,4 +29,6 @@
 			<Post {post}/>
 		{/each}
 	</div>` -->
+	
+	
 </div>

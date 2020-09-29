@@ -36,7 +36,7 @@
             </div>
             <div class="Footer-svelte">
                 2020
-                <img src="svelte.png" alt="Svelte">
+                <!-- <img src="svelte.png" alt="Svelte"> -->
             </div>
         </div>
     </div>

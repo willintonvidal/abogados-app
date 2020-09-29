@@ -1,5 +1,5 @@
 <script>
-    import Sidebar from './Sidebar.svelte'
+    // import Sidebar from './Sidebar.svelte'
 </script>
 <style>
     .Main-container {
@@ -20,7 +20,7 @@
     <div class="Main-container">
         <div class="Main-content">
             <slot />
-            <Sidebar />
+            <!-- <Sidebar /> -->
         </div>
     </div>
 </main>
