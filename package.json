@@ -1,6 +1,6 @@
 {
-  "name": "TODO",
-  "description": "TODO",
+  "name": "abogados-app",
+  "description": "ABOGADOS-APP",
   "version": "0.0.1",
   "scripts": {
     "dev": "sapper dev",
@@ -19,5 +19,16 @@
     "svelte-loader": "^2.9.0",
     "webpack": "^4.7.0",
     "webpack-modules": "^1.0.0"
-  }
+  },
+  "main": "webpack.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/willintonvidal/abogados-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/willintonvidal/abogados-app/issues"
+  },
+  "homepage": "https://github.com/willintonvidal/abogados-app#readme"
 }
