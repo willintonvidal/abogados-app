@@ -22,10 +22,10 @@
         display:flex;
         align-self: center;
     }
-    .Footer-svelte img{
+    /* .Footer-svelte img{
         margin: 0 0 0 0.5em;
         width: 50px;
-    }
+    } */
 </style>
 
 <footer class="Footer">
