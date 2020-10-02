@@ -16,7 +16,7 @@
         display: grid;
         justify-content: space-between;
         grid-gap: 5px;
-        grid-template-columns: 1fr;
+        grid-template-columns: 1fr; 
     }
     .Post-title {
         font-size: 28px;
@@ -50,9 +50,9 @@
     <div class="Post-content">
         <div class="Post-head">
             <div class="Post-title">
-                <h2>
+                <h4>
                     <a rel="prefetch" href="post/{post.slug}">{randomEmoji()} {post.title}</a>
-                </h2>
+                </h4>
                 <p>
                     <time datetime="{post.createdAt}">📅 {formatIsoTime(post.createdAt)}</time>
                 </p>

@@ -1,14 +1,14 @@
-<!-- <script context="module">
+<script context="module">
 	export function preload() {
 		return this.fetch(`blog.json`).then(r => r.json()).then(posts => {
 			return { posts };
 		});
 	}
-</script> -->
+</script>
 
 <script>
-	// import Post from '../components/Post.svelte'
-	//export let posts;
+	import Post from '../components/Post.svelte'
+	export let posts;
 </script>
 <style>
 	.Home {
@@ -24,11 +24,14 @@
 </svelte:head>
 
 <div class="Home">
-<!-- `	<div class="Posts">
+	<h1>Soluciones Integrales</h1>
+	<h3>En todas las areas del derecho</h3>
+	<h5>Ustedes son la causa más importante,</h5>
+	<h5>la batalla que siempre estamos dispuestos a dar</h5>
+	<p>Nuestra filosofía está orientada a la prestación de servicios de asesoría, consultoría preventiva y resolución de problemas. Para eso trabajamos con rigurosidad y disciplina en las siguientes áreas del derecho:</p>
+	<div class="Posts">
 		{#each  posts as post }
 			<Post {post}/>
 		{/each}
-	</div>` -->
-	
-	
+	</div>
 </div>

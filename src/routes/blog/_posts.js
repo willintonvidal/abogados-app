@@ -10,61 +10,121 @@
 const posts = [
     {
         "title":"Blogspost 1",
-        "html":"<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has</p>",
+        "html":"<p>Derecho Penal</p>",
         "slug":"blogpost-1",
         "createdAt":"2020-06-22T04:36:26.000+00:00",
         "id":"1",
-        "desc":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of",
+        "desc":"Derecho Penal",
         "tag":"general",
         "image":"https://arepa.s3.amazonaws.com/blogpost-cover.png"
     },
     {
         "title":"Blogspost 2",
-        "html":"<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has</p>",
+        "html":"<p>Derecho Privado, Corporativo y Resolución de Conflictos</p>",
         "slug":"blogpost-2",
         "createdAt":"2020-06-22T04:36:26.000+00:00",
         "id":"2",
-        "desc":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of",
+        "desc":"Derecho Privado, Corporativo y Resolución de Conflictos",
         "tag":"general",
         "image":"https://arepa.s3.amazonaws.com/blogpost-cover.png"
     },
     {
         "title":"Blogspost 3",
-        "html":"<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has</p>",
+        "html":"<p>Derecho Público y Contratación Estatal</p>",
         "slug":"blogpost-3",
         "createdAt":"2020-06-22T04:36:26.000+00:00",
         "id":"3",
-        "desc":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of",
+        "desc":"Derecho Público y Contratación Estatal",
         "tag":"general",
         "image":"https://arepa.s3.amazonaws.com/blogpost-cover.png"
     },
     {
         "title":"Blogspost 4",
-        "html":"<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has</p>",
+        "html":"<p>Derecho Minero Energético y Protección de Inversiones</p>",
         "slug":"blogpost-4",
         "createdAt":"2020-06-22T04:36:26.000+00:00",
         "id":"4",
-        "desc":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of",
+        "desc":"Derecho Minero Energético y Protección de Inversiones",
         "tag":"general",
         "image":"https://arepa.s3.amazonaws.com/blogpost-cover.png"
     },
     {
         "title":"Blogspost 5",
-        "html":"<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has</p>",
+        "html":"<p>Derecho Ambiental, Urbanístico y Ordenamiento Territorial</p>",
         "slug":"blogpost-5",
         "createdAt":"2020-06-22T04:36:26.000+00:00",
         "id":"5",
-        "desc":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of",
+        "desc":"Derecho Ambiental, Urbanístico y Ordenamiento Territorial",
         "tag":"general",
         "image":"https://arepa.s3.amazonaws.com/blogpost-cover.png"
     },
     {
         "title":"Blogspost 6",
-        "html":"<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has</p>",
+        "html":"<p>Derecho Laboral y Seguridad Social</p>",
         "slug":"blogpost-6",
         "createdAt":"2020-06-22T04:36:26.000+00:00",
         "id":"6",
-        "desc":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of",
+        "desc":"Derecho Laboral y Seguridad Social",
+        "tag":"general",
+        "image":"https://arepa.s3.amazonaws.com/blogpost-cover.png"
+    },
+    {
+        "title":"Blogspost 7",
+        "html":"<p>Derecho Electoral</p>",
+        "slug":"blogpost-7",
+        "createdAt":"2020-06-22T04:36:26.000+00:00",
+        "id":"6",
+        "desc":"Derecho Electoral",
+        "tag":"general",
+        "image":"https://arepa.s3.amazonaws.com/blogpost-cover.png"
+    },
+    {
+        "title":"Blogspost 8",
+        "html":"<p>Derecho del Entretenimiento y Derechos de Autor</p>",
+        "slug":"blogpost-8",
+        "createdAt":"2020-06-22T04:36:26.000+00:00",
+        "id":"6",
+        "desc":"Derecho del Entretenimiento y Derechos de Autor",
+        "tag":"general",
+        "image":"https://arepa.s3.amazonaws.com/blogpost-cover.png"
+    },
+    {
+        "title":"Blogspost 9",
+        "html":"<p>Derecho del Entretenimiento y Derechos de Autor</p>",
+        "slug":"blogpost-9",
+        "createdAt":"2020-06-22T04:36:26.000+00:00",
+        "id":"6",
+        "desc":"Derecho del Entretenimiento y Derechos de Autor",
+        "tag":"general",
+        "image":"https://arepa.s3.amazonaws.com/blogpost-cover.png"
+    },
+    {
+        "title":"Blogspost 10",
+        "html":"<p>Derecho Deportivo</p>",
+        "slug":"blogpost-10",
+        "createdAt":"2020-06-22T04:36:26.000+00:00",
+        "id":"6",
+        "desc":"Derecho Deportivo",
+        "tag":"general",
+        "image":"https://arepa.s3.amazonaws.com/blogpost-cover.png"
+    },
+    {
+        "title":"Blogspost 11",
+        "html":"<p>Otros Servicios</p>",
+        "slug":"blogpost-11",
+        "createdAt":"2020-06-22T04:36:26.000+00:00",
+        "id":"6",
+        "desc":"Otros Servicios",
+        "tag":"general",
+        "image":"https://arepa.s3.amazonaws.com/blogpost-cover.png"
+    },
+    {
+        "title":"Blogspost 12",
+        "html":"<p>Asuntos Públicos y regulatorios</p>",
+        "slug":"blogpost-12",
+        "createdAt":"2020-06-22T04:36:26.000+00:00",
+        "id":"6",
+        "desc":"Asuntos Públicos y regulatorios",
         "tag":"general",
         "image":"https://arepa.s3.amazonaws.com/blogpost-cover.png"
     }

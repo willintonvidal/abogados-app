@@ -3,6 +3,7 @@
 	import Header from '../components/Header.svelte'
 	import Main from '../components/Main.svelte'
 	import Footer from '../components/Footer.svelte'
+	import Whatsapp from '../components/Whatsapp.svelte'
 	export let segment;
 </script>
 
@@ -12,4 +13,5 @@
 <Main>
 	<slot></slot>
 </Main>
+<Whatsapp />
 <Footer />
