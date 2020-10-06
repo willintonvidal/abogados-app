@@ -16,7 +16,7 @@ const posts = [
         "id":"1",
         "desc":"Derecho Penal",
         "tag":"general",
-        "image":"https://arepa.s3.amazonaws.com/blogpost-cover.png"
+        "image":`<i class="fas fa-balance-scale-right"></i>`
     },
     {
         "title":"Blogspost 2",
@@ -26,7 +26,7 @@ const posts = [
         "id":"2",
         "desc":"Derecho Privado, Corporativo y Resolución de Conflictos",
         "tag":"general",
-        "image":"https://arepa.s3.amazonaws.com/blogpost-cover.png"
+        "image":`<i class="fas fa-archway"></i>`
     },
     {
         "title":"Blogspost 3",
@@ -36,7 +36,7 @@ const posts = [
         "id":"3",
         "desc":"Derecho Público y Contratación Estatal",
         "tag":"general",
-        "image":"https://arepa.s3.amazonaws.com/blogpost-cover.png"
+        "image":`<i class="fas fa-scroll"></i>`
     },
     {
         "title":"Blogspost 4",
@@ -46,7 +46,7 @@ const posts = [
         "id":"4",
         "desc":"Derecho Minero Energético y Protección de Inversiones",
         "tag":"general",
-        "image":"https://arepa.s3.amazonaws.com/blogpost-cover.png"
+        "image":`<i class="fas fa-hard-hat"></i>`
     },
     {
         "title":"Blogspost 5",
@@ -56,7 +56,7 @@ const posts = [
         "id":"5",
         "desc":"Derecho Ambiental, Urbanístico y Ordenamiento Territorial",
         "tag":"general",
-        "image":"https://arepa.s3.amazonaws.com/blogpost-cover.png"
+        "image":`<i class="fas fa-archive"></i>`
     },
     {
         "title":"Blogspost 6",
@@ -66,7 +66,7 @@ const posts = [
         "id":"6",
         "desc":"Derecho Laboral y Seguridad Social",
         "tag":"general",
-        "image":"https://arepa.s3.amazonaws.com/blogpost-cover.png"
+        "image":`<i class="fas fa-briefcase"></i>`
     },
     {
         "title":"Blogspost 7",
@@ -76,7 +76,7 @@ const posts = [
         "id":"6",
         "desc":"Derecho Electoral",
         "tag":"general",
-        "image":"https://arepa.s3.amazonaws.com/blogpost-cover.png"
+        "image":`<i class="fas fa-book-open"></i>`
     },
     {
         "title":"Blogspost 8",
@@ -86,17 +86,17 @@ const posts = [
         "id":"6",
         "desc":"Derecho del Entretenimiento y Derechos de Autor",
         "tag":"general",
-        "image":"https://arepa.s3.amazonaws.com/blogpost-cover.png"
+        "image":`<i class="fas fa-photo-video"></i>`
     },
     {
         "title":"Blogspost 9",
-        "html":"<p>Derecho del Entretenimiento y Derechos de Autor</p>",
+        "html":"<p>Dercho migratorio</p>",
         "slug":"blogpost-9",
         "createdAt":"2020-06-22T04:36:26.000+00:00",
         "id":"6",
         "desc":"Derecho del Entretenimiento y Derechos de Autor",
         "tag":"general",
-        "image":"https://arepa.s3.amazonaws.com/blogpost-cover.png"
+        "image":`<i class="fas fa-users"></i>`
     },
     {
         "title":"Blogspost 10",
@@ -106,7 +106,7 @@ const posts = [
         "id":"6",
         "desc":"Derecho Deportivo",
         "tag":"general",
-        "image":"https://arepa.s3.amazonaws.com/blogpost-cover.png"
+        "image":`<i class="fas fa-skiing"></i>`
     },
     {
         "title":"Blogspost 11",
@@ -116,7 +116,7 @@ const posts = [
         "id":"6",
         "desc":"Otros Servicios",
         "tag":"general",
-        "image":"https://arepa.s3.amazonaws.com/blogpost-cover.png"
+        "image":`<i class="fas fa-ethernet"></i>`
     },
     {
         "title":"Blogspost 12",
@@ -126,7 +126,7 @@ const posts = [
         "id":"6",
         "desc":"Asuntos Públicos y regulatorios",
         "tag":"general",
-        "image":"https://arepa.s3.amazonaws.com/blogpost-cover.png"
+        "image":`<i class="fas fa-handshake"></i>`
     }
 ];
 
