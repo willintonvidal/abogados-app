@@ -8,6 +8,20 @@
     <h3>Buscamos justicia para nuestros clientes</h3>
     <br>
     <div class="row">
-        <div class="col-md-4"></div>
+        <div class="col-md-4">
+            Abogado 1
+            <img src="" alt="">
+            abogado 2
+        </div>
+        <div class="col-md-4">
+            Abogado 2
+            <img src="" alt="">
+            abogado 2
+        </div>
+        <div class="col-md-4">
+            Abogado 3
+            <img src="" alt="">
+            abogado 2
+        </div>
     </div>
 </div>

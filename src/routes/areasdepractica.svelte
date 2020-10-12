@@ -33,7 +33,7 @@
             <span>Mineria</span>
         </div>
         <div class="col-md-4">
-            <img src="justicia.jpg" alt="">
+            <img src="Justicia.jpg" alt="">
             <span>Justicia</span>
         </div>
     </div>
