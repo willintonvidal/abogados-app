@@ -25,8 +25,8 @@
     "type": "git",
     "url": "git+https://github.com/willintonvidal/abogados-app.git"
   },
-  "engines":{
-    "node":"12.16.x"
+  "engines": {
+    "node": "12.16.x"
   },
   "author": "",
   "license": "ISC",
