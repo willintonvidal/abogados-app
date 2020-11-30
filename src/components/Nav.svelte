@@ -76,6 +76,7 @@
 			<div class="Nav-social">
 				<ul>
 					<li><a aria-current="{segment === undefined ? 'page' : undefined}" href=".">Inicio</a></li>
+					<li><a aria-current="{segment === 'portafolio' ? 'page' : undefined}" href="portafolio">Portafolio</a></li>
 					<li><a aria-current="{segment === 'quienessomos' ? 'page' : undefined}" href="quienessomos">Quiémes Somos</a></li>
 					<li><a aria-current="{segment === 'areasdepractica' ? 'page' : undefined}" href="areasdepractica">Áreas de Práctica</a></li>
 					<li><a aria-current="{segment === 'abogados' ? 'page' : undefined}" href="abogados">Abogados</a></li>
