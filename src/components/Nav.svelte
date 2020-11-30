@@ -6,7 +6,7 @@
 	.Nav {
 		border-bottom: 1px solid rgba(255,0,121,0.2);
 		font-weight: 300;
-		background-color:#fafbfc;
+		/*background-color:#fafbfc;*/
 		color: #191a22;
 	}
 	.Nav-container {
@@ -89,5 +89,19 @@
 			</div>
 		</div>
 	</div>
-	
 </nav>
+
+<!-- 
+	DEGRADADOS
+	background: rgb(0,169,225);
+	background: linear-gradient(90deg, rgba(0,169,225,1) 0%, rgba(34,83,103,1) 0%, rgba(7,66,82,1) 20%, rgba(6,46,58,1) 57%, rgba(34,83,103,1) 95%);
+
+	DEGRADADO CLARO
+	background: rgb(0,169,225);
+	background: linear-gradient(90deg, rgba(0,169,225,1) 6%, rgba(10,142,178,1) 99%);
+
+	COLOR 1: 00a9e1
+	COLOR 2: 225367
+	COLOR 3: 0a8eb2
+	COLOR 4: 062e3a
+ -->
