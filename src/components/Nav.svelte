@@ -5,9 +5,9 @@
 <style>
 	.Nav {
 		border-bottom: 1px solid rgba(255,0,121,0.2);
-		font-weight: 300;
+		/* font-weight: 300; */
 		/*background-color:#fafbfc;*/
-		color: #191a22;
+		color: white;
 	}
 	.Nav-container {
 		display: grid;
@@ -63,10 +63,10 @@
 		font-size: 14px;
 		font-weight: 300;
 		transition: all 0.3s ease-in-out 0s;
-		color: rgba(25,26,34,0.7);
+		color:white;
 	}
 	a:hover {
-		color: rgba(25,26,34,1);
+		color: rgba(1,20,34,1);
 	}
 </style>
 

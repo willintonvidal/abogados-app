@@ -5,7 +5,7 @@
     .Header {
       /*background-color: #fafbfc;*/
       color: #191a22;
-      padding: 1em 0 0 0;
+      padding: 0 0 0 0;
     }
     .Header-container {
       display: grid;
@@ -17,7 +17,7 @@
       display: flex;
       justify-content: space-between;
       align-items: center;
-    }
+     }/*
     .Header h1 {
       color: #191a22;
       font-size: 20px;
@@ -31,7 +31,8 @@
       font-weight: 300;
       letter-spacing: normal;
       margin: 0.3em 0 0 0;
-    }
+    } */
+
     .Header ul {
       margin: 0;
       padding: 0;
@@ -55,15 +56,20 @@
     .Header-social img {
       width: 20px;
     }
+
+    .Header-logo img {
+      width: 150px;
+      height: 150px;
+      object-fit: cover;
+    }
+
   </style>
 
 <header class="Header">
     <div class="Header-container">
         <div class="Header-content">
             <div class="Header-logo">
-                <h1>ABOGADOS SANTANDER
-                    <span>Consultoria y Servicios Legales Especializados</span>
-                </h1>
+                <img src="Logo.png"  alt="Logo solutions abogados defensores">
             </div>
             <div class="Header-social">
                 <ul>
