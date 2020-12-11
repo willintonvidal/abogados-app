@@ -34,36 +34,44 @@
             </p>
             <h5>Procesos contencioso penales</h5>
             <h5>Asistencia en audiencias preliminares</h5>
-
+            <div class="row">
+                <div class="col-md-6">
+                    <div class="list-group">
+                        <a href="#" class="list-group-item list-group-item-action list-group-item-dark">Legalización de captura</a> 
+                        <a href="#" class="list-group-item list-group-item-action list-group-item-dark">Formulación de la imputación</a>
+                        <a href="#" class="list-group-item list-group-item-action list-group-item-dark">Imposición medida de aseguramiento</a>
+                        <a href="#" class="list-group-item list-group-item-action list-group-item-dark">Audiencia de internamiento preventivo (adolescentes)</a>
+                        <a href="#" class="list-group-item list-group-item-action list-group-item-dark">Sustitución medida de aseguramiento</a>
+                        <a href="#" class="list-group-item list-group-item-action list-group-item-dark">Revocatoria medida de aseguramiento</a>
+                        <a href="#" class="list-group-item list-group-item-action list-group-item-dark">Audiencia de obtención de muestras que involucren al imputado</a>
+                        <a href="#" class="list-group-item list-group-item-action list-group-item-dark">Audiencia de solicitud de medidas cautelares y suspensión del poder dispositivo</a>
+                        <a href="#" class="list-group-item list-group-item-action list-group-item-dark">Audiencia de suspensión de registros obtenidos de manera fraudulenta</a>
+                    </div>
+                </div>
+                <div class="col-md-6">
+                    <div class="list-group">
+                        <a href="#" class="list-group-item list-group-item-action list-group-item-dark">Audiencia de control posterior de registro y allanamiento</a> 
+                        <a href="#" class="list-group-item list-group-item-action list-group-item-dark">Audiencia de declaración de contumacia</a>
+                        <a href="#" class="list-group-item list-group-item-action list-group-item-dark">Audiencia de declaración de persona ausente</a>
+                        <a href="#" class="list-group-item list-group-item-action list-group-item-dark">Audiencia de solicitud de libertad por vencimiento de términos</a>
+                        <a href="#" class="list-group-item list-group-item-action list-group-item-dark">Solicitud de prueba anticipada</a>
+                        <a href="#" class="list-group-item list-group-item-action list-group-item-dark">Audiencia de principio de oportunidad</a>
+                        <a href="#" class="list-group-item list-group-item-action list-group-item-dark">Audiencia de legalización de la incautación con fines de comiso</a>
+                        <a href="#" class="list-group-item list-group-item-action list-group-item-dark">Audiencia de medidas cautelares</a>
+                        <a href="#" class="list-group-item list-group-item-action list-group-item-dark">Audiencia de prórroga de la medida de aseguramiento privativa de la libertad</a>
+                        <a href="#" class="list-group-item list-group-item-action list-group-item-dark">Audiencia de sustitución de la medida de aseguramiento privativa de la libertad</a>
+                    </div>
+                </div>
+                
+            </div>
+            
             <div class="lista-penal">
-                <ul>
-                    <li>Legalización de captura</li>
-                    <li>Formulación de la imputación</li>
-                    <li>Imposición medida de aseguramiento</li>
-                    <li>Audiencia de internamiento preventivo (adolescentes)</li>
-                    <li>Sustitución medida de aseguramiento</li>
-                    <li>Revocatoria medida de aseguramiento</li>
-                    <li>Audiencia de obtención de muestras que involucren al imputado</li>
-                    <li>Audiencia de solicitud de medidas cautelares y suspensión del poder dispositivo</li>
-                    <li>Audiencia de suspensión de registros obtenidos de manera fraudulenta</li>
-                    <li>Audiencia de control posterior de registro y allanamiento</li>
-                    <li>Audiencia de declaración de contumacia</li>
-                    <li>Audiencia de declaración de persona ausente</li>
-                    <li>Audiencia de solicitud de libertad por vencimiento de términos</li>
-                    <li>Solicitud de prueba anticipada</li>
-                    <li>Audiencia de principio de oportunidad</li>
-                    <li>Audiencia de legalización de la incautación con fines de comiso</li>
-                    <li>Audiencia de medidas cautelares</li>
-                    <li>Audiencia de prórroga de la medida de aseguramiento privativa de la libertad</li>
-                    <li>Audiencia de sustitución de la medida de aseguramiento privativa de la libertad</li>
-                </ul>
                     <br>
                 <h4>RECUPERACIÓN DE BIENES MUEBLES E INMUEBLES AFECTADOS EN UN PROCESO PENAL OBJETO DE INCAUTACION O OCUPACION. (RESALTAR ESTE ACAPITE)</h4>
                 <h5>Bienes muebles: Recuperación de vehículos de carga (servicio público o servicio particular), carros, embarcaciones, motos.</h5>
                 <h5>Bienes inmuebles: casas, apartamentos, fincas, lotes, propiedades de grandes extensiones.</h5>
                 <ul>
                     <li>Audiencia de solicitud de entrega del vehículo o elementos de libre comercio.</li>
-                    <li>Audiencia de solicitud de entrega del vehículo de servicio publico </li>
                     <li>Audiencia de solicitud de entrega definitiva del vehículo o elementos de libre comercio</li>
                     <li>Audiencia de devolución de bienes</li>                
                 </ul>
