@@ -6,10 +6,15 @@
         width: 100%;
         border-radius: 20px;
     }
+    h1{
+        font-weight: bold;
+    }
 </style>
 
 <div>
-    <h1 class="text-center">Nuestro portafolio de servicios</h1>
+    <br />
+    <!-- <h1 class="text-center" >Nuestro portafolio de servicios</h1> -->
+    <br />
     <div class="Entrada row">
         <div class="quienesomos col-md-4 bg-gradient-secondary">
             <h4 class="text-center">Quienes somos?</h4>
@@ -27,13 +32,20 @@
     </div>
 
     <h1 class="text-center">Nuestros servicios</h1>
-    <div class="Servicios row">
-        <div class="Derecho-penal col-md-12 text-center">
-            <h4>Derecho Penal</h4>
-            <p>SOLUTION ABOGADOS DEFENSORES cuenta con el mejor equipo de trabajo, para el seguimiento de su proceso penal, independiente de la etapa en que se encuentre. El acompañamiento en todas la audiencias está enfatizando en el marco de la justicia premial, con nuestro equipo quienes tienen amplio conocimiento y destreza profesional para procurar la terminación anticipada del proceso, acompañando los procesos de negociación jurídica con el ente acusador por vía de preacuerdo, principio de oportunidad, argumentación y sustentación de la solicitud de preclusión o cesación de la acción penal de manera definitiva.  Nuestra cobertura se encuentra mayormente en el departamento del Cauca, centrado en el norte y el Valle Del Cauca.
-            </p>
+            <div class="row">
+                <div class="col-md-6">
+                    <img src="fotos/3.jpeg" alt="">
+                </div>
+                <div class="col-md-6 align-middle">
+                    <h4>Derecho Penal</h4>
+                    <p>SOLUTION ABOGADOS DEFENSORES cuenta con el mejor equipo de trabajo, para el seguimiento de su proceso penal, independiente de la etapa en que se encuentre. El acompañamiento en todas la audiencias está enfatizando en el marco de la justicia premial, con nuestro equipo quienes tienen amplio conocimiento y destreza profesional para procurar la terminación anticipada del proceso, acompañando los procesos de negociación jurídica con el ente acusador por vía de preacuerdo, principio de oportunidad, argumentación y sustentación de la solicitud de preclusión o cesación de la acción penal de manera definitiva.  Nuestra cobertura se encuentra mayormente en el departamento del Cauca, centrado en el norte y el Valle Del Cauca.
+                    </p>
+                </div>
+            </div>
+            <br />
             <h5>Procesos contencioso penales</h5>
             <h5>Asistencia en audiencias preliminares</h5>
+            <br />
             <div class="row">
                 <div class="col-md-6">
                     <div class="list-group">
@@ -65,109 +77,331 @@
                 
             </div>
             
-            <div class="lista-penal">
                     <br>
-                <h4>RECUPERACIÓN DE BIENES MUEBLES E INMUEBLES AFECTADOS EN UN PROCESO PENAL OBJETO DE INCAUTACION O OCUPACION. (RESALTAR ESTE ACAPITE)</h4>
-                <h5>Bienes muebles: Recuperación de vehículos de carga (servicio público o servicio particular), carros, embarcaciones, motos.</h5>
-                <h5>Bienes inmuebles: casas, apartamentos, fincas, lotes, propiedades de grandes extensiones.</h5>
-                <ul>
-                    <li>Audiencia de solicitud de entrega del vehículo o elementos de libre comercio.</li>
-                    <li>Audiencia de solicitud de entrega definitiva del vehículo o elementos de libre comercio</li>
-                    <li>Audiencia de devolución de bienes</li>                
-                </ul>
-                <h5>Asistencia a audiencias de conocimiento</h5>
-                <ul>
-                    <li>Audiencia de formulación de acusación</li>
-                    <li>Audiencia de verificación de preacuerdo</li>
-                    <li>Definición de competencia</li>
-                    <li>Impedimentos y recusaciones</li>
-                    <li>Nulidades</li>
-                    <li>Conflicto entre jurisdicciones</li>
-                    <li>Audiencia preparatoria</li>
-                    <li>Sanción por encubrimiento al deber de descubrimiento</li>
-                    <li>Estipulaciones probatorias</li>
-                    <li>Solicitud de decreto de pruebas comunes</li>
-                    <li>Solicitud de exclusión probatoria</li>
-                    <li>Audiencia de Juicio oral</li>
-                    <li>Práctica de pruebas testimoniales</li>
-                    <li>Impugnación de credibilidad de testigos</li>
-                    <li>Prueba pericial</li>
-                    <li>Prueba documental</li>
-                    <li>Prueba de inspección judicial</li>
-                    <li>Prueba de refutación</li>
-                    <li>Prueba sobreviniente</li>
-                    <li>Oposición</li>
-                    <li>Congruencia</li>
-                    <li>Sentido del fallo</li>
-                    <li>Apelación</li>
-                </ul>
-                <h5>Otras diligencias</h5>
-                <ul>
-                    <li>Reconocimiento de las victimas</li>
-                    <li>Individualización de la pena</li>
-                    <li>Procedimientos abreviados</li>
-                    <li>Solicitud de preclusión</li>
-                    <li>Allanamiento a cargos</li>
-                    <li>Incidentes de reparación integral</li>
-                </ul>
-                <h5>Procedimientos ante juez de ejecución de penas y medidas de seguridad</h5>
-                <h5>Procesos de responsabilidad penal en adolescentes</h5>
-                <h4>SOLUTION ABOGADOS DEFENSORES también cuenta con conocimiento y habilidades para asesorar correctamente a sus clientes en las demás áreas del derecho, gracias a su completo equipo de trabajo, presto a brindar el mejor servicio.</h4>
-                <h5>DERECHO PROCESAL CIVIL</h5>
-                <h5>Procesos declarativos</h5>
-                <ul>
-                    <li>Procesos verbales</li>
-                    <li>Procesos Verbal sumario </li>
-                    <li>Declaración de pertenencia</li>
-                    <li>Deslinde y amojonamiento</li>
-                    <li>Solicitud de prescripción </li>
-                    <li>Resoluciones de compra venta</li>
-                    <li>Responsabilidad civil contractual y extracontractual</li>
-                    <li>Restitución de inmueble arrendado</li>
-                    <li>Negligencia médica</li>
-                </ul>
-                <h5>Procesos especiales </h5>
-                    <ul>
-                        <li>Procesos divisorios</li>
-                        <li>Procesos monitorios</li>
-                        <li>Expropiación</li>
-                    </ul>
-                <h5>Ejecutivos</h5>
-                    <ul>
-                        <li>Ejecutivo singular</li>
-                        <li>Ejecutivo hipotecario</li>
-                        <li>Ejecutivo mixto</li>
-                        <li>Cobro de cartera</li>
-                    </ul>
-                <h5>Obligaciones de dar hacer y no Hacer</h5>
-                <h5>Procesos liquidatarios</h5>
+                <div class="row">
+                    <h4>RECUPERACIÓN DE BIENES MUEBLES E INMUEBLES AFECTADOS EN UN PROCESO PENAL OBJETO DE INCAUTACION O OCUPACION. (RESALTAR ESTE ACAPITE)</h4>
+                    <div class="col-md-6">
+                        <h5>Bienes muebles: Recuperación de vehículos de carga (servicio público o servicio particular), carros, embarcaciones, motos.</h5>
+                        <h5>Bienes inmuebles: casas, apartamentos, fincas, lotes, propiedades de grandes extensiones.</h5>
+                    </div>
+                    <div class="col-md-6">
+                        <ul>
+                            <li>Audiencia de solicitud de entrega del vehículo o elementos de libre comercio.</li>
+                            <li>Audiencia de solicitud de entrega definitiva del vehículo o elementos de libre comercio</li>
+                            <li>Audiencia de devolución de bienes</li>                
+                        </ul>
+                    </div>
+                </div>
+                <br />
+                <div class="row">
+                    <div class="col-md-12">
+                        <h5>Asistencia a audiencias de conocimiento</h5>
+                    </div>
+                    <div class="col-md-6">
+                        <img src="fotos/3.jpeg" alt="">
+                    </div>
+                    <div class="col-md-6">
+                        <ul>
+                            <li>Audiencia de formulación de acusación</li>
+                            <li>Audiencia de verificación de preacuerdo</li>
+                            <li>Definición de competencia</li>
+                            <li>Impedimentos y recusaciones</li>
+                            <li>Nulidades</li>
+                            <li>Conflicto entre jurisdicciones</li>
+                            <li>Audiencia preparatoria</li>
+                            <li>Sanción por encubrimiento al deber de descubrimiento</li>
+                            <li>Estipulaciones probatorias</li>
+                            <li>Solicitud de decreto de pruebas comunes</li>
+                            <li>Solicitud de exclusión probatoria</li>
+                            <li>Audiencia de Juicio oral</li>
+                            <li>Práctica de pruebas testimoniales</li>
+                            <li>Impugnación de credibilidad de testigos</li>
+                            <li>Prueba pericial</li>
+                            <li>Prueba documental</li>
+                            <li>Prueba de inspección judicial</li>
+                            <li>Prueba de refutación</li>
+                            <li>Prueba sobreviniente</li>
+                            <li>Oposición</li>
+                            <li>Congruencia</li>
+                            <li>Sentido del fallo</li>
+                            <li>Apelación</li>
+                        </ul>
+                    </div>
+                </div>                
+                <br />
 
-                <h4>DERECHO DE FAMILIA</h4>
-                <h5>Matrimonio civil </h5>
-                <ul>
-                    <li>Declaración de bienes</li>
-                    <li>Capitulaciones</li>
-                    <li>Divorcio</li>
-                </ul>
-                <h5>Matrimonio católico</h5>
-                <ul>
-                    <li>Capitulaciones</li>
-                    <li>Cesación de efectos civiles</li>
-                </ul>
-                <h5>Procesos de alimentos </h5>
-                <ul>
-                    <li>Fijación de cuota alimentaria</li>
-                    <li>Modificación de cuota alimentaria</li>
-                    <li>Levantamiento de cuota alimentaria</li>
-                    <li>Ejecutivo de alimentos</li>
-                </ul>
-                <h5>Patria potestad</h5>
-                <ul>
-                    <li>Impugnación de la Paternidad</li>
-                    <li>Regulación de visitas</li>
-                </ul>
-            </div>
-        </div>
-    </div>
-    <img src="mantenimiento.png" alt="WhatsApp" with="300" height="300">
+                <div class="row">
+                    <div class="col-md-12">
+                        <h5>Otras diligencias</h5>
+                    </div>
+                    <div class="col-md-6">
+                        <ul>
+                            <li>Reconocimiento de las victimas</li>
+                            <li>Individualización de la pena</li>
+                            <li>Procedimientos abreviados</li>
+                            <li>Solicitud de preclusión</li>
+                            <li>Allanamiento a cargos</li>
+                            <li>Incidentes de reparación integral</li>
+                        </ul>
+                    </div>
+                    <div class="col-md-6">
+                        <img src="fotos/3.jpeg" alt="">
+                    </div>
+                </div>
+                
+                <div class="row">
+                    <div class="col-md-12">
+                        <h5>Procedimientos ante juez de ejecución de penas y medidas de seguridad</h5>
+                    </div>
+                    <div class="col-md-12">
+                        <h5>Procesos de responsabilidad penal en adolescentes</h5>
+                    </div>
+                </div>
+                <br />
+                <br />
+                <div class="row">
+                    <div class="col-md-12">
+                        <h4>SOLUTION ABOGADOS DEFENSORES también cuenta con conocimiento y habilidades para asesorar correctamente a sus clientes en las demás áreas del derecho, gracias a su completo equipo de trabajo, presto a brindar el mejor servicio.</h4>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-12">
+                        <h5>DERECHO PROCESAL CIVIL</h5>
+                    </div>
+                    <div class="col-md-6">
+                        <h5>Procesos declarativos</h5>
+                    </div>
+                    <div class="col-md-6">
+                        <ul>
+                            <li>Procesos verbales</li>
+                            <li>Procesos Verbal sumario </li>
+                            <li>Declaración de pertenencia</li>
+                            <li>Deslinde y amojonamiento</li>
+                            <li>Solicitud de prescripción </li>
+                            <li>Resoluciones de compra venta</li>
+                            <li>Responsabilidad civil contractual y extracontractual</li>
+                            <li>Restitución de inmueble arrendado</li>
+                            <li>Negligencia médica</li>
+                        </ul>
+                    </div>                    
+                </div>
+            
+                <br />
+                <div class="row">
+                    <div class="col-md-6">
+                        <h5>Procesos especiales </h5>
+                    </div>
+                    <div class="col-md-6">
+                        <ul>
+                            <li>Procesos divisorios</li>
+                            <li>Procesos monitorios</li>
+                            <li>Expropiación</li>
+                        </ul>    
+                    </div>
+                </div>
+                
+                
+                <br />
+                <div class="row">
+                    <div class="col-md-6">
+                        <h5>Ejecutivos</h5>
+                    </div>
+                    <div class="col-md-6">
+                        <ul>
+                            <li>Ejecutivo singular</li>
+                            <li>Ejecutivo hipotecario</li>
+                            <li>Ejecutivo mixto</li>
+                            <li>Cobro de cartera</li>
+                        </ul>
+                    </div>
+                </div>
+                    
+                <div class="row">
+                    <div class="col-md-12">
+                        <h5>Obligaciones de dar hacer y no Hacer</h5>
+                    </div>
+                    <div class="col-md-12">
+                        <h5>Procesos liquidatarios</h5>
+                    </div>
+                </div>
+                <br />
+
+                <div class="row">
+                    <div class="col-md-12">
+                        <h4>DERECHO DE FAMILIA</h4>
+                    </div>
+                    <div class="col-md-6">
+                        <h5>Matrimonio civil </h5>
+                    </div>
+                    <div class="col-md-6">                        
+                        <ul>
+                            <li>Declaración de bienes</li>
+                            <li>Capitulaciones</li>
+                            <li>Divorcio</li>
+                        </ul>        
+                    </div>
+                </div>
+
+                <br />
+                <div class="row">
+                    <div class="col-md-6">
+                        <h5>Matrimonio católico</h5>
+                    </div>
+                    <div class="col-md-6">
+                        <ul>
+                            <li>Capitulaciones</li>
+                            <li>Cesación de efectos civiles</li>
+                        </ul>
+                    </div>
+                </div>
+
+                <br />
+                <div class="row">
+                    <div class="col-md-6">
+                        <h5>Procesos de alimentos </h5>
+                    </div>
+                    <div class="col-md-6">
+                        <ul>
+                            <li>Fijación de cuota alimentaria</li>
+                            <li>Modificación de cuota alimentaria</li>
+                            <li>Levantamiento de cuota alimentaria</li>
+                            <li>Ejecutivo de alimentos</li>
+                        </ul>
+                    </div>
+                </div>
+                
+                <br />
+                <div class="row">
+                    <div class="col-md-6">
+                        <h5>Patria potestad</h5>
+                    </div>
+                    <div class="col-md-6">
+                        <ul>
+                            <li>Impugnación de la Paternidad</li>
+                            <li>Regulación de visitas</li>
+                        </ul>
+                    </div>
+                </div>
+
+                <br />
+                <div class="row">
+                    <div class="col-md-12">
+                        <h5>Sucesiones</h5>
+                    </div>
+                    <div class="col-md-12">
+                        <h5>Adopciones</h5>
+                    </div>
+                </div>
+
+                <br />
+
+                <div class="row">
+                    <div class="col-md-12">
+                        <h4>PROCESOS LABORALES</h4>
+                    </div>
+                </div>
+                <br />
+
+                <div class="row">
+                    <div class="col-md-12">
+                        <h5>Procesos ordinarios laborales</h5>
+                    </div>
+                    <div class="col-md-12">
+                        <h5>Formalización contratos de trabajo</h5>
+                    </div>
+                    <div class="col-md-12">
+                        <h5>Liquidación de obligaciones laborales</h5>
+                    </div>
+                    <div class="col-md-12">
+                        <h5>Procesos de fuero sindical</h5>
+                    </div>
+                    <div class="col-md-12">
+                        <h5>Asesoría de organizaciones sindicales</h5>
+                    </div>
+                    <div class="col-md-12">
+                        <h5>Ejecutivos laborales</h5>
+                    </div>
+                </div>
+
+                
+
+                <div class="row">
+                    <div class="col-md-6">
+                        <h5>Pensión</h5>
+                    </div>
+                    <div class="col-md-6">
+                        <ul>
+                            <li>De vejez</li>
+                            <li>Invalidez</li>
+                            <li>Sobrevivientes</li>
+                        </ul>
+                    </div>
+                </div>
+
+                <div class="row">
+                    <div class="col-md-12">
+                        <h5>Devolución de saldos</h5>
+                    </div>
+                    <div class="col-md-12">
+                        <h5>Representación judicial en procesos laborales ordinarios, especiales, laboral administrativo.</h5>
+                    </div>
+                    <div class="col-md-12">
+                        <h5>Reliquidación de pensiones</h5>
+                    </div>
+                </div>
+
+                <br />
+                <div class="row">
+                    <div class="col-md-12">
+                        <h4>DERECHO CONSTITUCIONAL</h4>
+                    </div>
+                    <div class="col-md-12">
+                        <h5>Tutelas </h5>
+                    </div>
+                    <div class="col-md-12">
+                        <h5>Acciones de grupo</h5>
+                    </div>
+                    <div class="col-md-12">
+                        <h5>Acción popular</h5>
+                    </div>
+                    <div class="col-md-12">
+                        <h5>Recursos</h5>
+                    </div>
+                </div>
+                <br />
+                <div class="row">
+                    <div class="col-md-12">
+                        <h4>DERECHO ADMINISTRATIVO</h4>
+                    </div>
+                    <div class="col-md-12">
+                        <h5>Procesos de responsabilidad Del Estado en sus diferentes vertientes</h5>
+                    </div>
+                    <div class="col-md-12">
+                        <h5>Asesoría en foto multas y multas de transito</h5>
+                    </div>
+                    <div class="col-md-12">
+                        <h5>Acción de nulidad </h5>
+                    </div>
+                    <div class="col-md-12">
+                        <h5>Acción de grupo</h5>
+                    </div>
+                    <div class="col-md-12">
+                        <h5>Acciones de nulidad y restablecimiento del derecho</h5>
+                    </div>
+                    <div class="col-md-12">
+                        <h5>Acciones de reparación directa</h5>
+                    </div>
+                    <div class="col-md-12">
+                        <h5>Trámites y reclamos ante entidades</h5>
+                    </div>
+                </div>
+                <br />
+                <div class="row">
+                    <div class="col-md-12">
+                        <h4>DERECHO COMERCIAL</h4>
+                    </div>
+                    <div class="col-md-12">
+                        <h5>Constitución de sociedades anónimas colectivas de responsabilidad limitada comandita simple comandita por acciones II sociedad por acciones simplificada</h5>
+                    </div>
+                </div>
 </div>
