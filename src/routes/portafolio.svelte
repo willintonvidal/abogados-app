@@ -197,7 +197,7 @@
                         <img src="fotos/8.jpeg" alt="">
                     </div>
                 </div>
-                
+                <br>
                 <div class="row">
                     <div class="col-md-12">
                         <h5 class="text-center">Procedimientos ante juez de ejecución de penas y medidas de seguridad</h5>
@@ -213,12 +213,14 @@
                         <h4 class="text-center">SOLUTION ABOGADOS DEFENSORES también cuenta con conocimiento y habilidades para asesorar correctamente a sus clientes en las demás áreas del derecho, gracias a su completo equipo de trabajo, presto a brindar el mejor servicio.</h4>
                     </div>
                 </div>
+                <br>
+                <br>
                 <div class="row">
                     <div class="col-md-12">
-                        <h5>DERECHO PROCESAL CIVIL</h5>
+                        <h4 class="text-center">DERECHO PROCESAL CIVIL</h4>
                     </div>
                     <div class="col-md-6">
-                        <h5>Procesos declarativos</h5>
+                        <h5 class="text-center">Procesos declarativos</h5>
                     </div>
                     <div class="col-md-6">
                         <ul>
@@ -238,7 +240,7 @@
                 <br />
                 <div class="row">
                     <div class="col-md-6">
-                        <h5>Procesos especiales </h5>
+                        <h5 class="text-center">Procesos especiales </h5>
                     </div>
                     <div class="col-md-6">
                         <ul>
@@ -253,7 +255,7 @@
                 <br />
                 <div class="row">
                     <div class="col-md-6">
-                        <h5>Ejecutivos</h5>
+                        <h5 class="text-center">Ejecutivos</h5>
                     </div>
                     <div class="col-md-6">
                         <ul>
@@ -267,10 +269,10 @@
                     
                 <div class="row">
                     <div class="col-md-12">
-                        <h5>Obligaciones de dar hacer y no Hacer</h5>
+                        <h5 class="text-center">Obligaciones de dar hacer y no Hacer</h5>
                     </div>
                     <div class="col-md-12">
-                        <h5>Procesos liquidatarios</h5>
+                        <h5 class="text-center">Procesos liquidatarios</h5>
                     </div>
                 </div>
                 <br />
@@ -280,7 +282,7 @@
                         <h4 class="text-center">DERECHO DE FAMILIA</h4>
                     </div>
                     <div class="col-md-6">
-                        <h5>Matrimonio civil </h5>
+                        <h5 class="text-center">Matrimonio civil </h5>
                     </div>
                     <div class="col-md-6">                        
                         <ul>
@@ -294,7 +296,7 @@
                 <br />
                 <div class="row">
                     <div class="col-md-6">
-                        <h5>Matrimonio católico</h5>
+                        <h5 class="text-center">Matrimonio católico</h5>
                     </div>
                     <div class="col-md-6">
                         <ul>
@@ -307,7 +309,7 @@
                 <br />
                 <div class="row">
                     <div class="col-md-6">
-                        <h5>Procesos de alimentos </h5>
+                        <h5 class="text-center">Procesos de alimentos </h5>
                     </div>
                     <div class="col-md-6">
                         <ul>
@@ -322,7 +324,7 @@
                 <br />
                 <div class="row">
                     <div class="col-md-6">
-                        <h5>Patria potestad</h5>
+                        <h5 class="text-center">Patria potestad</h5>
                     </div>
                     <div class="col-md-6">
                         <ul>
@@ -335,10 +337,10 @@
                 <br />
                 <div class="row">
                     <div class="col-md-12">
-                        <h5>Sucesiones</h5>
+                        <h5 class="text-center">Sucesiones</h5>
                     </div>
                     <div class="col-md-12">
-                        <h5>Adopciones</h5>
+                        <h5 class="text-center">Adopciones</h5>
                     </div>
                 </div>
 
