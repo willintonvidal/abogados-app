@@ -41,8 +41,8 @@
     </div>
 
     <h1 class="text-center">Nuestros servicios</h1>
-            <div class="row">
-                <div class="col-md-6">
+            <div class="row align-items-center">
+                <div class="col-md-6 align-middle">
                     <img src="fotos/1.jpeg" alt="">
                 </div>
                 <div class="col-md-6 align-middle">
@@ -142,11 +142,11 @@
                 </div>
                 <br />
                 <br>
-                <div class="row">
+                <div class="row align-items-center">
                     <div class="col-md-12">
                         <h5 class="text-center">Asistencia a audiencias de conocimiento</h5>
                     </div>
-                    <div class="col-md-6">
+                    <div class="col-md-6 align-middle">
                         <img src="fotos/3.jpeg" alt="">
                     </div>
                     <div class="col-md-6">
@@ -179,11 +179,11 @@
                 </div>                
                 <br />
 
-                <div class="row">
+                <div class="row align-items-center">
                     <div class="col-md-12">
                         <h5 class="text-center">Otras diligencias</h5>
                     </div>
-                    <div class="col-md-6">
+                    <div class="col-md-6 align-center">
                         <ul>
                             <li>Reconocimiento de las victimas</li>
                             <li>Individualización de la pena</li>
@@ -215,11 +215,11 @@
                 </div>
                 <br>
                 <br>
-                <div class="row">
+                <div class="row align-items-center">
                     <div class="col-md-12">
                         <h4 class="text-center">DERECHO PROCESAL CIVIL</h4>
                     </div>
-                    <div class="col-md-6">
+                    <div class="col-md-6 align-middle">
                         <h5 class="text-center">Procesos declarativos</h5>
                     </div>
                     <div class="col-md-6">
@@ -238,8 +238,8 @@
                 </div>
             
                 <br />
-                <div class="row">
-                    <div class="col-md-6">
+                <div class="row align-items-center">
+                    <div class="col-md-6 align-middle">
                         <h5 class="text-center">Procesos especiales </h5>
                     </div>
                     <div class="col-md-6">
@@ -253,8 +253,8 @@
                 
                 
                 <br />
-                <div class="row">
-                    <div class="col-md-6">
+                <div class="row align-items-center">
+                    <div class="col-md-6 align-middle">
                         <h5 class="text-center">Ejecutivos</h5>
                     </div>
                     <div class="col-md-6">
