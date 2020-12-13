@@ -27,7 +27,7 @@
 <div class="Whatsapp">
     <div class="Whatsaap-container">
         <div class="Whatsapp-content">
-            <span>Escríbanos su consulta</span>
+            <h5>Escríbanos su consulta</h5>
             <a href="https://api.whatsapp.com/send/?phone=3155352902&text&app_absent=0" target="_blank">
                 <img src="whatsapp.png" alt="WhatsApp">
             </a>
