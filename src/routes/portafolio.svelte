@@ -9,6 +9,15 @@
     h1{
         font-weight: bold;
     }
+    li {
+		list-style: none;
+	}
+
+	li::before {
+		content:"●";
+		color:#E6BA64;
+		margin-right: 10px;
+	}
 </style>
 
 <div>
@@ -34,7 +43,7 @@
     <h1 class="text-center">Nuestros servicios</h1>
             <div class="row">
                 <div class="col-md-6">
-                    <img src="fotos/3.jpeg" alt="">
+                    <img src="fotos/1.jpeg" alt="">
                 </div>
                 <div class="col-md-6 align-middle">
                     <h4>Derecho Penal</h4>
@@ -43,10 +52,16 @@
                 </div>
             </div>
             <br />
-            <h5>Procesos contencioso penales</h5>
-            <h5>Asistencia en audiencias preliminares</h5>
-            <br />
             <div class="row">
+                <div class="col-md-12">
+                    <h5 class="text-center">Procesos contencioso penales</h5>
+                </div>
+                <div class="col-md-12">
+                    <h5 class="text-center">Asistencia en audiencias preliminares</h5>
+                </div>
+            </div>
+            <br />
+            <!-- <div class="row">
                 <div class="col-md-6">
                     <div class="list-group">
                         <a href="#" class="list-group-item list-group-item-action list-group-item-dark">Legalización de captura</a> 
@@ -75,11 +90,44 @@
                     </div>
                 </div>
                 
+            </div> -->
+
+            <div class="row">
+                <div class="col-md-6">
+                    <ul>
+                        <li>Legalización de captura</li>
+                        <li>Formulación de la imputación</li>
+                        <li>Imposición medida de aseguramiento</li>
+                        <li>Audiencia de internamiento preventivo (adolescentes)</li>
+                        <li>Sustitución medida de aseguramiento</li>
+                        <li>Revocatoria medida de aseguramiento</li>
+                        <li>Audiencia de obtención de muestras que involucren al imputado</li>
+                        <li>Audiencia de solicitud de medidas cautelares y suspensión del poder dispositivo</li>
+                        <li>Audiencia de suspensión de registros obtenidos de manera fraudulenta</li>
+                        <li>Audiencia de control posterior de registro y allanamiento</li>
+                    </ul>
+                </div>
+                <div class="col-md-6">
+                    <ul>
+                        <li>Audiencia de declaración de contumacia</li>
+                        <li>Audiencia de declaración de persona ausente</li>
+                        <li>Audiencia de solicitud de libertad por vencimiento de términos</li>
+                        <li>Solicitud de prueba anticipada</li>
+                        <li>Audiencia de principio de oportunidad</li>
+                        <li>Audiencia de legalización de la incautación con fines de comiso</li>
+                        <li>Audiencia de medidas cautelares</li>
+                        <li>Audiencia de prórroga de la medida de aseguramiento privativa de la libertad</li>
+                        <li>Audiencia de sustitución de la medida de aseguramiento privativa de la libertad</li>
+                    </ul>
+                </div>
             </div>
             
                     <br>
+                    <br>
                 <div class="row">
-                    <h4>RECUPERACIÓN DE BIENES MUEBLES E INMUEBLES AFECTADOS EN UN PROCESO PENAL OBJETO DE INCAUTACION O OCUPACION. (RESALTAR ESTE ACAPITE)</h4>
+                    <div class="col-md-12">
+                        <h4 class="text-center">RECUPERACIÓN DE BIENES MUEBLES E INMUEBLES AFECTADOS EN UN PROCESO PENAL OBJETO DE INCAUTACION O OCUPACION.</h4>
+                    </div>
                     <div class="col-md-6">
                         <h5>Bienes muebles: Recuperación de vehículos de carga (servicio público o servicio particular), carros, embarcaciones, motos.</h5>
                         <h5>Bienes inmuebles: casas, apartamentos, fincas, lotes, propiedades de grandes extensiones.</h5>
@@ -93,9 +141,10 @@
                     </div>
                 </div>
                 <br />
+                <br>
                 <div class="row">
                     <div class="col-md-12">
-                        <h5>Asistencia a audiencias de conocimiento</h5>
+                        <h5 class="text-center">Asistencia a audiencias de conocimiento</h5>
                     </div>
                     <div class="col-md-6">
                         <img src="fotos/3.jpeg" alt="">
@@ -132,7 +181,7 @@
 
                 <div class="row">
                     <div class="col-md-12">
-                        <h5>Otras diligencias</h5>
+                        <h5 class="text-center">Otras diligencias</h5>
                     </div>
                     <div class="col-md-6">
                         <ul>
@@ -145,23 +194,23 @@
                         </ul>
                     </div>
                     <div class="col-md-6">
-                        <img src="fotos/3.jpeg" alt="">
+                        <img src="fotos/8.jpeg" alt="">
                     </div>
                 </div>
                 
                 <div class="row">
                     <div class="col-md-12">
-                        <h5>Procedimientos ante juez de ejecución de penas y medidas de seguridad</h5>
+                        <h5 class="text-center">Procedimientos ante juez de ejecución de penas y medidas de seguridad</h5>
                     </div>
                     <div class="col-md-12">
-                        <h5>Procesos de responsabilidad penal en adolescentes</h5>
+                        <h5 class="text-center">Procesos de responsabilidad penal en adolescentes</h5>
                     </div>
                 </div>
                 <br />
                 <br />
                 <div class="row">
                     <div class="col-md-12">
-                        <h4>SOLUTION ABOGADOS DEFENSORES también cuenta con conocimiento y habilidades para asesorar correctamente a sus clientes en las demás áreas del derecho, gracias a su completo equipo de trabajo, presto a brindar el mejor servicio.</h4>
+                        <h4 class="text-center">SOLUTION ABOGADOS DEFENSORES también cuenta con conocimiento y habilidades para asesorar correctamente a sus clientes en las demás áreas del derecho, gracias a su completo equipo de trabajo, presto a brindar el mejor servicio.</h4>
                     </div>
                 </div>
                 <div class="row">
@@ -228,7 +277,7 @@
 
                 <div class="row">
                     <div class="col-md-12">
-                        <h4>DERECHO DE FAMILIA</h4>
+                        <h4 class="text-center">DERECHO DE FAMILIA</h4>
                     </div>
                     <div class="col-md-6">
                         <h5>Matrimonio civil </h5>
@@ -297,7 +346,7 @@
 
                 <div class="row">
                     <div class="col-md-12">
-                        <h4>PROCESOS LABORALES</h4>
+                        <h4 class="text-center">PROCESOS LABORALES</h4>
                     </div>
                 </div>
                 <br />
@@ -353,9 +402,9 @@
                 <br />
                 <div class="row">
                     <div class="col-md-12">
-                        <h4>DERECHO CONSTITUCIONAL</h4>
+                        <h4 class="text-center">DERECHO CONSTITUCIONAL</h4>
                     </div>
-                    <div class="col-md-12">
+                    <!-- <div class="col-md-12">
                         <h5>Tutelas </h5>
                     </div>
                     <div class="col-md-12">
@@ -366,14 +415,22 @@
                     </div>
                     <div class="col-md-12">
                         <h5>Recursos</h5>
+                    </div> -->
+                    <div class="col-md-12">
+                        <ul>
+                            <li>Tutelas</li>
+                            <li>Acciones de grupo</li>
+                            <li>Acción popular</li>
+                            <li>Recursos</li>
+                        </ul>
                     </div>
                 </div>
                 <br />
                 <div class="row">
                     <div class="col-md-12">
-                        <h4>DERECHO ADMINISTRATIVO</h4>
+                        <h4 class="text-center">DERECHO ADMINISTRATIVO</h4>
                     </div>
-                    <div class="col-md-12">
+                    <!-- <div class="col-md-12">
                         <h5>Procesos de responsabilidad Del Estado en sus diferentes vertientes</h5>
                     </div>
                     <div class="col-md-12">
@@ -393,15 +450,28 @@
                     </div>
                     <div class="col-md-12">
                         <h5>Trámites y reclamos ante entidades</h5>
+                    </div> -->
+                    <div class="col-md-12">
+                        <ul>
+                            <li>Procesos de responsabilidad Del Estado en sus diferentes vertientes</li>
+                            <li>Asesoría en foto multas y multas de transito</li>
+                            <li>Acción de nulidad</li>
+                            <li>Acción de grupo</li>
+                            <li>Acciones de nulidad y restablecimiento del derecho</li>
+                            <li>Acciones de reparación directa</li>
+                            <li>Trámites y reclamos ante entidades</li>
+                        </ul>
                     </div>
                 </div>
                 <br />
                 <div class="row">
                     <div class="col-md-12">
-                        <h4>DERECHO COMERCIAL</h4>
+                        <h4 class="text-center">DERECHO COMERCIAL</h4>
                     </div>
                     <div class="col-md-12">
-                        <h5>Constitución de sociedades anónimas colectivas de responsabilidad limitada comandita simple comandita por acciones II sociedad por acciones simplificada</h5>
+                        <ul>
+                            <li>Constitución de sociedades anónimas colectivas de responsabilidad limitada comandita simple comandita por acciones II sociedad por acciones simplificada</li>
+                        </ul>
                     </div>
                 </div>
 </div>
