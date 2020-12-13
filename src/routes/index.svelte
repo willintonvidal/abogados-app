@@ -119,7 +119,7 @@
 	<title>Home</title>
 </svelte:head>
 
-<section class="carousel">
+<!-- <section class="carousel">
 	<div class="carousel__container">
   
 	  <div class="carousel-item">
@@ -183,7 +183,7 @@
 	  </div>
 
 	</div>
-  </section>
+  </section> -->
 
 
 <div class="Home">
