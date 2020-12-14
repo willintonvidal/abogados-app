@@ -1,4 +1,8 @@
 <style>
+.Whatsapp {
+   position: fixed;
+   z-index:100; 
+}
 .Whatsaap-container {
     display: grid;
     grid-template-columns: minmax(auto, 1024px);

@@ -110,9 +110,6 @@
 ::placeholder {
   color: white;
 }
-
-
-
 </style>
 
 <svelte:head>

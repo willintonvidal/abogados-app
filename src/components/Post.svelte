@@ -9,6 +9,9 @@
     .icono {
         font-size: 26px;
     }
+     i{
+		color:#A1B2CD;
+    } 
 </style>
 
 <div class="Post-item col-md-4" >
