@@ -32,7 +32,7 @@
     <div class="Footer-container">
         <div class="Footer-content">
             <div class="Footer-copy">
-                Copyright Abogados Enterprise. All Rights Reserved
+                Solution abogados defensores 
             </div>
             <div class="Footer-svelte">
                 2020

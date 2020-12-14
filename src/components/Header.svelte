@@ -71,7 +71,7 @@
             <div class="Header-logo">
                 <img src="Logo.png"  alt="Logo solutions abogados defensores">
             </div>
-            <div class="Header-social">
+            <!-- <div class="Header-social">
                 <ul>
                     <li>
                         <a href="/" target="_blank" rel="noreferrer" on:click={analyticsTracking('facebook')}>
@@ -93,7 +93,7 @@
                         </a>
                     </li>
                 </ul>
-            </div>
+            </div> -->
         </div>
     </div>
 </header>
