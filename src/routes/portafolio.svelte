@@ -150,7 +150,7 @@
                         <img src="fotos/3.jpeg" alt="">
                     </div>
                     <div class="col-md-6">
-                        <ul>
+                        <ul class="text-left">
                             <li>Audiencia de formulación de acusación</li>
                             <li>Audiencia de verificación de preacuerdo</li>
                             <li>Definición de competencia</li>

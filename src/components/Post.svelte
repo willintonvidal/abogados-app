@@ -24,8 +24,8 @@
                 </h4> -->
             </div>
             <div class="Post-tags"></div>
-            <div class="Post-desc">
-                <p>{post.desc}</p>
+            <div class="Post-desc  text-center">
+                <p class="text-center">{post.desc}</p>
             </div>
             
         </div>

@@ -7,7 +7,7 @@
 		border-bottom: 1px solid rgba(255,0,121,0.2);
 		/* font-weight: 300; */
 		/*background-color:#fafbfc;*/
-		color: white;
+		
 	}
 	.Nav-container {
 		display: grid;
@@ -63,10 +63,10 @@
 		font-size: 14px;
 		font-weight: 300;
 		transition: all 0.3s ease-in-out 0s;
-		color:white;
+		color:#A1B2CD;
 	}
 	a:hover {
-		color: rgba(1,20,34,1);
+		color: #A1B2CD;
 	}
 </style>
 
@@ -75,7 +75,7 @@
 		<div class="Nav-content">
 			<div class="Nav-social">
 				<ul>
-					<!-- <li><a aria-current="{segment === undefined ? 'page' : undefined}" href=".">Inicio</a></li> -->
+					<li><a aria-current="{segment === undefined ? 'page' : undefined}" href=".">Inicio</a></li>
 					<li><a aria-current="{segment === 'portafolio' ? 'page' : undefined}" href="portafolio">Portafolio</a></li>
 					<!-- <li><a aria-current="{segment === 'quienessomos' ? 'page' : undefined}" href="quienessomos">Quiémes Somos</a></li> -->
 					<!-- <li><a aria-current="{segment === 'areasdepractica' ? 'page' : undefined}" href="areasdepractica">Áreas de Práctica</a></li> -->

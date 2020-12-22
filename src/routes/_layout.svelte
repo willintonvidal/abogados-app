@@ -9,7 +9,6 @@
 
 <Header />
 <Nav {segment}/>
-
 <Main>
 	<slot></slot>
 </Main>
