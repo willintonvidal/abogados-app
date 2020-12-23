@@ -9,15 +9,14 @@
     h1{
         font-weight: bold;
     }
-    li {
-		list-style: none;
-	}
-
+/*     
 	li::before {
 		content:"●";
 		color:#E6BA64;
-		margin-right: 10px;
-	}
+		margin-right: 10px; 
+    }
+*/
+	
 </style>
 
 <div>

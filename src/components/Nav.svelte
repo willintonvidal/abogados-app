@@ -1,6 +1,10 @@
 <script>
 	export let segment;
+	let y = 0;
+	$: console.log(y);
 </script>
+
+<svelte:window  bind:scrollY={y}/>
 
 <style>
 	.Nav {
