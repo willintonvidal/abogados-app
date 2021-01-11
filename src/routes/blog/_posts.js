@@ -39,26 +39,6 @@ const posts = [
         "image":`<i class="fas fa-scroll" style="color:#A1B2CD;"></i>`
     },
     {
-        "title":"Blogspost 4",
-        "html":"<p>Derecho Minero Energético y Protección de Inversiones</p>",
-        "slug":"blogpost-4",
-        "createdAt":"2020-06-22T04:36:26.000+00:00",
-        "id":"4",
-        "desc":"Derecho Minero Energético y Protección de Inversiones",
-        "tag":"general",
-        "image":`<i class="fas fa-hard-hat" style="color:#A1B2CD;"></i>`
-    },
-    {
-        "title":"Blogspost 5",
-        "html":"<p>Derecho Ambiental, Urbanístico y Ordenamiento Territorial</p>",
-        "slug":"blogpost-5",
-        "createdAt":"2020-06-22T04:36:26.000+00:00",
-        "id":"5",
-        "desc":"Derecho Ambiental, Urbanístico y Ordenamiento Territorial",
-        "tag":"general",
-        "image":`<i class="fas fa-archive" style="color:#A1B2CD;"></i>`
-    },
-    {
         "title":"Blogspost 6",
         "html":"<p>Derecho Laboral y Seguridad Social</p>",
         "slug":"blogpost-6",
@@ -69,26 +49,6 @@ const posts = [
         "image":`<i class="fas fa-briefcase" style="color:#A1B2CD;"></i>`
     },
     {
-        "title":"Blogspost 7",
-        "html":"<p>Derecho Electoral</p>",
-        "slug":"blogpost-7",
-        "createdAt":"2020-06-22T04:36:26.000+00:00",
-        "id":"6",
-        "desc":"Derecho Electoral",
-        "tag":"general",
-        "image":`<i class="fas fa-book-open" style="color:#A1B2CD;"></i>`
-    },
-    {
-        "title":"Blogspost 8",
-        "html":"<p>Derecho del Entretenimiento y Derechos de Autor</p>",
-        "slug":"blogpost-8",
-        "createdAt":"2020-06-22T04:36:26.000+00:00",
-        "id":"6",
-        "desc":"Derecho del Entretenimiento y Derechos de Autor",
-        "tag":"general",
-        "image":`<i class="fas fa-photo-video" style="color:#A1B2CD;"></i>`
-    },
-    {
         "title":"Blogspost 9",
         "html":"<p>Dercho migratorio</p>",
         "slug":"blogpost-9",
@@ -97,16 +57,6 @@ const posts = [
         "desc":"Derecho del Entretenimiento y Derechos de Autor",
         "tag":"general",
         "image":`<i class="fas fa-users" style="color:#A1B2CD;"></i>`
-    },
-    {
-        "title":"Blogspost 10",
-        "html":"<p>Derecho Deportivo</p>",
-        "slug":"blogpost-10",
-        "createdAt":"2020-06-22T04:36:26.000+00:00",
-        "id":"6",
-        "desc":"Derecho Deportivo",
-        "tag":"general",
-        "image":`<i class="fas fa-skiing" style="color:#A1B2CD;"></i>`
     },
     {
         "title":"Blogspost 11",
